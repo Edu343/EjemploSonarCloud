@@ -111,8 +111,8 @@ public class FileLoader
          return row;
          
      }
-     
-   public int ExitXCord() //return the X cordinates for the Exit
+
+   public int getXCord() //return the X cordinates for the Exit
    {
       return exitXCord;
    }
